@@ -79,6 +79,7 @@ img{
     height: 300px;
 }
 section{
+     background-color: rgb(215, 238, 250);
      margin: auto;
      padding: auto;
     border-radius: 50px;
@@ -95,3 +96,4 @@ footer{
     margin: auto;
     padding: auto;
 }
+
